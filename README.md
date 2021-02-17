@@ -1,5 +1,6 @@
 ## Adafruit Wide-Range Triple-axis Magnetometer - MLX90393 PCB
 
+<a href="http://www.adafruit.com/products/4022"><img src="assets/4022-QT.jpg?raw=true" width="500px"><br/>
 <a href="http://www.adafruit.com/products/4022"><img src="assets/4022.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
@@ -14,7 +15,7 @@ Compared to most magnetometers, this gives a huge range, which makes it excellen
 
 To make it easy to use, we've placed this tiny little sensor onto a breakout board, with a 3.3V power supply and level shifter. This makes it easy to use with any 3 or 5V microcontroller. Our Arduino and CircuitPython code will get you started in a jiffy, with I2C communication to the sensor. You will be readin' out those Gauss's in minutes! With the address select pins you can have up to 4 sensors on one I2C bus.
 
-Comes as a fully assembled and tested breakout board with a small piece of header for use with a breadboard.
+Comes as a fully assembled and tested breakout board with a small piece of header for use with a breadboard. As if that weren't enough, we've now also added SparkFun qwiic compatible STEMMA QT connectors for the I2C bus so you don't even need to solder the I2C and power lines. Just wire up to your favorite micro using a STEMMA QT adapter cable. The Stemma QT connectors also mean the MLX90393 can be used with our various associated accessories. QT Cable is not included, but we have a variety in the shop.
 
 **Specifications**
 The MLX90393 has the following key technical specifications:
